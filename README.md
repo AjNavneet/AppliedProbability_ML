@@ -12,10 +12,13 @@ This repository focuses on applied probability for ML using theory, abstract top
 5. Intuition for Joint, Marginal, and Conditional Probability -> ✅
 6. Advanced Examples of Calculating Probability -> ✅
 ---
-7. Probability Distributions
-8. Discrete Probability Distributions
-9. Continuous Probability Distributions
+7. Probability Distributions -> ✅
+8. Discrete Probability Distributions -> ✅
+9. Continuous Probability Distributions -> ✅
 10. Probability Density Estimation
+
+---
+
 11. Maximum Likelihood Estimation
 12. Linear Regression With Maximum Likelihood Estimation
 13. Logistic Regression With Maximum Likelihood Estimation
